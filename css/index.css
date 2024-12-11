@@ -1,19 +1,20 @@
 a{
     text-decoration: none;
     color: white;
+    font-size: 24px;
+    font-weight: bold;
 }
 .navbar{
     background-color: rgb(81, 186, 235);
-    height: 40px;
+    height: 60px;
     box-shadow: 4px 4px 10px;
     border-radius: 3px;
 }
 .navbut{
-    margin-top: 6px;
+    margin-top: 13px;
     margin-left: 35px;
     background-color: white;
     border: 0px;
-    font-size: 20px;
     background-color: transparent;
   }
 
